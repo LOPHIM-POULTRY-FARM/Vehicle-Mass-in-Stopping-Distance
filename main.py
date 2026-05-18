@@ -777,7 +777,7 @@ plt.axhline(
     color="red",
     linestyle=":",
     linewidth=4,
-    label="High Beam Visibility (90 m)"
+    label="High Beam Visibility (150 m)"
 )
 
 plt.title(
