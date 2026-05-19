@@ -722,7 +722,7 @@ plt.savefig(
 
 plt.show()
 
-# ================= GRAPH 8: HEAVY TRUCK NIGHT VISIBILITY ANALYSIS =================
+# GRAPH 8: HEAVY TRUCK NIGHT VISIBILITY ANALYSIS
 
 plt.figure(figsize=(16, 9))
 
