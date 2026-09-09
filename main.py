@@ -526,7 +526,7 @@ for (category, masses), color in zip(categories.items(), base_colors):
 
     plt.show()
 
-# Graph 5 — Phone effect during daytime
+'''# Graph 5 — Phone effect during daytime
 
 plt.figure(figsize=(18, 10))
 
@@ -634,7 +634,7 @@ plt.grid()
 plt.savefig("outputs/graphs/phone_effect_night.pdf", bbox_inches='tight')
 plt.savefig("outputs/graphs/phone_effect_night.svg", bbox_inches='tight')
 
-plt.show()
+plt.show()'''
 
 # Graph 7 — Nighttime visibility risk analysis
 
